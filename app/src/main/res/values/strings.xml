@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Kotlin-Socket</string>
+    <string name="ip_address">IP-Address</string>
+    <string name="port_no">Port No</string>
+</resources>
